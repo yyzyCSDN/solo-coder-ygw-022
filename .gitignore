@@ -1,0 +1,12 @@
+.env
+.env.*
+*.key
+*.pem
+*.token
+*.secret
+runtime.db
+*.db
+__pycache__/
+*.py[cod]
+.claude/
+.codex/
